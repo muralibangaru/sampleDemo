@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>Grant Permission to User</shortname>
+  <description>Grant Permission to User on Content</description>
+  <url>/grantPermission?noderef={noderef}&amp;user={user}</url>
+  <format default="html">argument</format>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>
